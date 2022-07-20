@@ -2,8 +2,11 @@
 Integrantes
 
 Amanda Díaz https://github.com/Amyyinthesky/SprintJavaWeb.git
+
 Nicolay López
+
 Mauricio Seguel https://github.com/IronWesso/SprintJavaWeb
+
 Constanza Vivar 
 
 Capacitaciones "Los Sin Accidente."
